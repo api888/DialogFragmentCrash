@@ -1,0 +1,2 @@
+rootProject.name='DialogFragmentCrash'
+include ':app'
